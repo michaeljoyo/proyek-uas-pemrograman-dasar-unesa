@@ -1,0 +1,11 @@
+==== STRUK PEMBELIAN ====
+Tanggal : 20-12-2025 09:59:07
+Pembeli : laskhhadsjn,
+Kasir   : Yulia Putri Anggraeni
+Nadiya Chintiya Dewi
+Hengry Michaeli Joyo Kusumo
+----------------------------
+minyak goreng x2 = Rp 42.000
+----------------------------
+Total : Rp 42.000
+
